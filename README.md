@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Aurora-creeper! 👋
 
-<!--
-**Aurora-creeper/Aurora-creeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Creeper that codes instead of explodes... mostly.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+ - I was a **Moderator** at the **Minecraft Chinese Forum (MCBBS)**
+-  **Current Project:** Working on a mysterious **TypeScript** library (It's a secret 🤐)
+-  **Achievement:** ICPC EC-Final Honorable Mention😆
+-  **Status:** Ready to Boom!💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
