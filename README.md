@@ -1,9 +1,9 @@
 ## Hi there, I'm Aurora-creeper! 👋
 
-A Creeper that codes instead of explodes... mostly.
+I actually blew you up back in the day, you know.
 
 ### 🚀 About Me
- - I was a **Moderator** at the **Minecraft Chinese Forum (MCBBS)**
+-  I was a Moderator at the Minecraft Chinese Forum (MCBBS)
 -  **Current Project:** Working on a mysterious **TypeScript** library (It's a secret 🤐)
 -  **Achievement:** ICPC EC-Final Honorable Mention😆
 -  **Status:** Ready to Boom!💥
